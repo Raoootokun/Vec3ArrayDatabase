@@ -21,6 +21,12 @@ Vector3を配列として保存します。
 - `clear(): void`  
   追加されているvec3をすべて削除します。
 
+- `size(): number`  
+  追加されているvec3の数を返します。
+
+- `byte(): number`  
+  追加されているvec3のバイト数を返します。
+  
 ### 使用例
 
 ```javascript
